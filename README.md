@@ -85,3 +85,6 @@ should be used.
 ## Author
 
 * [kawabata](https://github.com/kawabata)
+
+* The authors of the data from [CHISE project](http://www.chise.org/)
+  are included in the files derived from their data.

@@ -1,5 +1,11 @@
 # Copyright (c) 2014-2018 CJKVI Database
 # Based on CHISE IDS Database
+#
+# * Authors
+#   C.C. Hsieh and his team at Academia Sinica in Taipei, Taiwan.
+#   Tomohiko Morioka
+#   Taichi Kawabata
+#
 ;; -*- coding: utf-8-mcs-er -*-
 U+03B1	α	α
 U+2113	ℓ	ℓ

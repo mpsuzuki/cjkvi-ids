@@ -1,4 +1,10 @@
 # Copyright (c) 2014-2017 CJKVI Database
+#
+# * Authors
+#   C.C. Hsieh and his team at Academia Sinica in Taipei, Taiwan.
+#   Tomohiko Morioka
+#   Taichi Kawabata
+#
 # Based on CHISE IDS Database
 U+03B1	α	α
 U+2113	ℓ	ℓ
